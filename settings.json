@@ -1,0 +1,10 @@
+{
+    "name": "BlockParty",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/core-sia": true,
+        "/category/file_storage/core-sia/mode": "single"
+    }
+}
